@@ -1,2 +1,4 @@
 objects/*
 !objects/.track
+.saved_files/*
+!.saved_files/.track
